@@ -20,3 +20,6 @@ class Codechef
 	
 	}
 }
+System.out.println("Hello World");
+}
+}	
